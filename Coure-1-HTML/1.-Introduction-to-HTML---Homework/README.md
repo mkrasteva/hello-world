@@ -1,3 +1,3 @@
-<h1>1. Introduction to HTML - Homework</h1>
+<h1>Introduction to HTML</h1>
 
 Homework from the Introduction to HTML lecture.
